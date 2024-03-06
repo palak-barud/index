@@ -1,0 +1,30 @@
+#PB{
+    display: flex;
+    justify-content: center;
+    border:solid thin gray;
+    height: 600px;
+    width: 450px;
+    margin-left: 500px;
+    box-shadow: 10px 10px 10px grey;
+    text-align: center;
+}
+h1{
+    font-family:"monotype corsiva";
+    font-size: 35pt;
+
+}
+input{
+    width:300px;
+    height: 25px;
+}
+button{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(20, 104, 214);
+    background-color: rgba(0, 132, 255, 0.863);
+}
+#B{
+    display: flex;
+    justify-content: center;
+}
